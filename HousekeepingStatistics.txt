@@ -1,0 +1,12 @@
+Congrats on finishing the week! Let's look at this week's statistics to see how it went!
+Total number of vacant rooms: 0
+Total number of occupied rooms: 0
+ 
+Total number of cleaned rooms: 0
+Total number of dirty rooms: 0
+Total number of requested rooms: 0
+Total number of urgent rooms: 0
+ 
+______________________________________
+Total bill of housekeeping this week: $43.0
+______________________________________
