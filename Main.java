@@ -1,6 +1,5 @@
 /*
 Name: Jennifer Huang
-Course Code: ICS3U
 Starting date: 2022-12-21
 Purpose: To allow the user to manage housekeeping services of a hotel
 */
